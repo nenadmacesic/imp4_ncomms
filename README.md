@@ -1,7 +1,7 @@
 # Genomic dissection of endemic carbapenem resistance: metallo-beta-lactamase gene dissemination through clonal, plasmid and integron transfer pathways
 We analysed two decades of blaIMP-4 evolution in a hospital using sequence data from 270 clinical and environmental isolates (including 169 completed genomes).
 
-The pre-print publication is available on bioRxiv [title](https://www.biorxiv.org/content/10.1101/2023.03.25.534241v1)
+The pre-print publication is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.25.534241v1)
 
 In this repository are the data and the R code needed to generate the mansucript figures.
 
