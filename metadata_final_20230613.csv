@@ -1,0 +1,271 @@
+isolate,species_final,st,species_st,species_st_clean,species_clean,species_st_final,acc_coll_date,period,year,environmental,ur_dummy,rep_type_clean,flanker_cluster,figure_3_cluster,nt_seq,nt_seq_group
+CPO002,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-02-14,2016-2020,2019,0,131,IncHI2A type 2,NA,NA,NA,NA
+CPO003,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-02-09,2016-2020,2019,0,172,IncHI2A type 1,NA,NA,NA,NA
+CPO004,Escherichia coli,2520,Escherichia coli 2520,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2019-02-08,2016-2020,2019,0,126,IncHI2A type 2,NA,NA,NA,NA
+CPO006,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-02-06,2016-2020,2019,0,174,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO008,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-02-05,2016-2020,2019,0,117,IncHI2A type 2,NA,NA,NA,NA
+CPO009,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2019-02-02,2016-2020,2019,0,66,IncFIA/IncFIB/IncP,3,B,TGGTCGACGCCT,9
+CPO010,Acinetobacter ursingii,749,Acinetobacter ursingii 749,Acinetobacter spp.,Acinetobacter spp.,Other Gram negative spp.,2019-02-02,2016-2020,2019,0,77,Untypeable,NA,NA,NA,NA
+CPO011,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-02-01,2016-2020,2019,0,79,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO013,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-02-01,2016-2020,2019,0,128,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO014,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-01-30,2016-2020,2019,0,137,IncHI2A type 2,NA,NA,NA,NA
+CPO016,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-01-30,2016-2020,2019,0,131,IncHI2A type 2,NA,NA,NA,NA
+CPO017,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-01-30,2016-2020,2019,0,174,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO019,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-01-26,2016-2020,2019,0,161,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO020,Enterobacter hormaechei,134,Enterobacter hormaechei 134,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2019-01-25,2016-2020,2019,0,4,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO021,Klebsiella variicola,3206,Klebsiella variicola 3206,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2019-01-24,2016-2020,2019,0,140,IncL/M,6,G,GGGTCGACGCCT,5
+CPO022,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2019-01-24,2016-2020,2019,0,183,IncFIA/IncFIB/IncP,NA,NA,NA,NA
+CPO023,Escherichia coli,2144,Escherichia coli 2144,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2019-01-23,2016-2020,2019,0,120,IncL/M,18,18,GGGTCGACGCCT,5
+CPO024,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-01-23,2016-2020,2019,0,135,IncHI2A type 1,NA,NA,NA,NA
+CPO029,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-01-21,2016-2020,2019,0,135,IncHI2A type 1,21,21,GGGTCGACGTCT,6
+CPO033,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-02-21,2016-2020,2019,0,139,IncHI2A type 1,NA,NA,NA,NA
+CPO037,Serratia marcescens,2,Serratia marcescens 2,Serratia marcescens lin. 2,Serratia marcescens,Serratia marcescens,2019-01-03,2016-2020,2019,1,55,IncC,1,A,TGGTCGACGCCT,9
+CPO038,Serratia marcescens,2,Serratia marcescens 2,Serratia marcescens lin. 2,Serratia marcescens,Serratia marcescens,2019-01-03,2016-2020,2019,1,58,IncC,NA,NA,NA,NA
+CPO039,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2019-01-03,2016-2020,2019,1,57,IncC,NA,NA,NA,NA
+CPO040,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2018-12-29,2016-2020,2018,0,166,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO042,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2018-12-24,2016-2020,2018,0,141,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO044,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2018-12-22,2016-2020,2018,0,125,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO045,Klebsiella grimontii,300,Klebsiella grimontii 300,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2018-12-20,2016-2020,2018,0,130,IncL/M,6,G,GGGTCGACGCCT,5
+CPO046,Escherichia coli,1312,Escherichia coli 1312,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2018-12-20,2016-2020,2018,0,130,IncL/M,6,G,GGGTCGACGCCT,5
+CPO049,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2018-12-19,2016-2020,2018,0,137,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO050,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2018-12-19,2016-2020,2018,0,137,IncHI2A type 2,NA,NA,NA,NA
+CPO051,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2018-12-17,2016-2020,2018,0,129,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO052,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2018-12-13,2016-2020,2018,0,119,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO053,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2018-12-11,2016-2020,2018,0,68,IncFIA/IncFIB/IncP,3,B,TGGTCGACGCCT,9
+CPO054,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2018-12-08,2016-2020,2018,0,133,IncFIA/IncFIB/IncP,NA,NA,NA,NA
+CPO055,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2018-12-05,2016-2020,2018,0,79,Chromosome,2,F,GGGTCGACGTCT,6
+CPO056,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2018-12-05,2016-2020,2018,0,117,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO058,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2018-10-30,2016-2020,2018,0,3,IncHI2A type 1,7,7,GGGTCGACGTCT,6
+CPO060,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2018-12-05,2016-2020,2018,0,191,Chromosome,2,F,GGGTCGACGTCT,6
+CPO062,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2018-11-16,2016-2020,2018,0,175,IncHI2A type 1,7,7,GGGTCGACGTCT,6
+CPO064,Acinetobacter nosocomialis,948,Acinetobacter nosocomialis 948,Acinetobacter spp.,Acinetobacter spp.,Other Gram negative spp.,2018-11-06,2016-2020,2018,0,86,Untypeable,NA,NA,NA,NA
+CPO066,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2018-11-07,2016-2020,2018,0,136,IncHI2A type 1,2,F,GGGTCGATGTCT,7
+CPO067,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2018-10-29,2016-2020,2018,0,46,IncL/M,6,G,GGGTCGACGCCT,5
+CPO068,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2018-10-27,2016-2020,2018,0,134,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO069,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2018-10-07,2016-2020,2018,0,87,IncC,NA,NA,NA,NA
+CPO071,Klebsiella variicola,3081,Klebsiella variicola 3081,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2018-08-06,2016-2020,2018,0,110,IncL/M,24,24,GGGTCGACGCCT,5
+CPO072,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2018-07-20,2016-2020,2018,0,74,IncC,NA,NA,NA,NA
+CPO073,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2018-06-28,2016-2020,2018,0,127,IncHI2A type 2,NA,NA,NA,NA
+CPO074,Escherichia coli,176,Escherichia coli 176,Escherichia coli ST176,Escherichia coli,Escherichia coli,2018-06-20,2016-2020,2018,0,71,IncL/M,6,G,GGGTCGACGCCT,5
+CPO075,Klebsiella variicola,347,Klebsiella variicola 347,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2018-06-14,2016-2020,2018,0,71,IncL/M,6,G,GGGTCGACGCCT,5
+CPO076,Citrobacter freundii,16,Citrobacter freundii 16,Citrobacter spp.,Citrobacter spp.,Other Gram negative spp.,2018-06-05,2016-2020,2018,0,122,Chromosome,2,F,GGGTCGACGCCT,5
+CPO078,Klebsiella michiganensis,231,Klebsiella michiganensis 231,Klebsiella michiganensis,Klebsiella michiganensis,Other Klebsiella spp.,2018-06-04,2016-2020,2018,0,123,IncL/M,6,G,GGGTCGACGCCT,5
+CPO079,Klebsiella pneumoniae,27,Klebsiella pneumoniae 27,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2018-05-27,2016-2020,2018,0,124,IncL/M,6,G,GGGTCGACGCCT,5
+CPO081,Enterobacter hormaechei,177,Enterobacter hormaechei 177,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2018-06-04,2016-2020,2018,0,170,IncHI2A type 1,16,16,GGGTCGACGTCT,6
+CPO082,Klebsiella oxytoca,178,Klebsiella oxytoca 178,Klebsiella oxytoca - Other STs,Klebsiella oxytoca,Other Klebsiella spp.,2018-05-08,2016-2020,2018,0,51,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO086,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2018-04-10,2016-2020,2018,0,163,Chromosome,NA,NA,NA,NA
+CPO088,Klebsiella oxytoca,178,Klebsiella oxytoca 178,Klebsiella oxytoca - Other STs,Klebsiella oxytoca,Other Klebsiella spp.,2018-03-01,2016-2020,2018,0,69,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO089,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2018-02-27,2016-2020,2018,0,167,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO092,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2018-01-23,2016-2020,2018,0,89,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO093,Enterobacter hormaechei,175,Enterobacter hormaechei 175,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2018-01-13,2016-2020,2018,0,41,IncL/M,6,G,GGGTCGACGCCT,5
+CPO094,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2018-11-08,2016-2020,2018,0,111,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO098,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2017-11-21,2016-2020,2017,0,63,Chromosome,2,F,GGGTCGACGTCT,6
+CPO100,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2008-03-24,2002-2010,2008,0,5,Chromosome,NA,NA,NA,NA
+CPO101,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2008-03-29,2002-2010,2008,0,173,IncC,3,B,TGGTCGACGCCT,9
+CPO102,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2008-05-30,2002-2010,2008,0,185,Chromosome,NA,NA,NA,NA
+CPO103,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2008-06-29,2002-2010,2008,0,44,Chromosome,NA,NA,NA,NA
+CPO104,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2008-08-25,2002-2010,2008,0,8,IncC,1,A,TGGTCGACGCCT,9
+CPO105,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2008-09-24,2002-2010,2008,0,47,IncC,3,B,TGGTCGACGCCT,9
+CPO106,Klebsiella pneumoniae,435,Klebsiella pneumoniae 435,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2008-10-12,2002-2010,2008,0,1,IncC,0,C,TGGTCGACGCCT,9
+CPO107,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2008-12-02,2002-2010,2008,0,48,IncC,1,A,TGGTCGACGCCT,9
+CPO109,Klebsiella pneumoniae,20,Klebsiella pneumoniae 20,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2008-12-19,2002-2010,2008,0,42,Chromosome,10,10,TGGTCGACGCCT,9
+CPO111,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2009-06-07,2002-2010,2009,0,40,Chromosome,NA,NA,NA,NA
+CPO112,Klebsiella variicola,2551,Klebsiella variicola 2551,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2017-01-26,2016-2020,2017,0,177,IncL/M,6,G,GGGTCGACGCCT,5
+CPO116,Klebsiella michiganensis,50,Klebsiella michiganensis 50,Klebsiella michiganensis,Klebsiella michiganensis,Other Klebsiella spp.,2016-12-21,2016-2020,2016,0,109,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO117,Acinetobacter pittii,1037,Acinetobacter pittii 1037,Acinetobacter spp.,Acinetobacter spp.,Other Gram negative spp.,2016-12-03,2016-2020,2016,0,94,Untypeable,NA,NA,NA,NA
+CPO118,Klebsiella oxytoca,278,Klebsiella oxytoca 278,Klebsiella oxytoca ST278,Klebsiella oxytoca,Other Klebsiella spp.,2016-11-22,2016-2020,2016,0,2,IncHI2A type 1,2,F,GGGTCGACACCT,4
+CPO119,Klebsiella oxytoca,278,Klebsiella oxytoca 278,Klebsiella oxytoca ST278,Klebsiella oxytoca,Other Klebsiella spp.,2016-11-22,2016-2020,2016,0,98,IncHI2A type 1,2,F,GGGTCGACACCT,4
+CPO120,Klebsiella oxytoca,278,Klebsiella oxytoca 278,Klebsiella oxytoca ST278,Klebsiella oxytoca,Other Klebsiella spp.,2016-11-21,2016-2020,2016,0,92,IncHI2A type 1,2,F,GGGTCGACGCCT,5
+CPO121,Klebsiella oxytoca,278,Klebsiella oxytoca 278,Klebsiella oxytoca ST278,Klebsiella oxytoca,Other Klebsiella spp.,2016-11-15,2016-2020,2016,0,171,IncHI2A type 1,5,5,GGGTCGACACCT,4
+CPO123,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2016-10-17,2016-2020,2016,0,108,IncL/M,6,G,GGGTCGACGCCT,5
+CPO128,Klebsiella pneumoniae,27,Klebsiella pneumoniae 27,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2016-08-19,2016-2020,2016,0,106,IncC,NA,NA,NA,NA
+CPO129,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2016-07-09,2016-2020,2016,0,99,IncFIA/IncFIB/IncP,3,B,TGGTCGACGCCT,9
+CPO132,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2015-08-26,2011-2015,2015,0,93,IncC,1,A,TGGTCGACGCCT,9
+CPO134,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2015-04-26,2011-2015,2015,0,162,Chromosome,NA,NA,NA,NA
+CPO136,Klebsiella pneumoniae,340,Klebsiella pneumoniae 340,Klebsiella pneumoniae ST340,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2015-03-02,2011-2015,2015,0,100,IncC,14,14,NA,NA
+CPO137,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2015-03-02,2011-2015,2015,0,100,Chromosome,NA,NA,NA,NA
+CPO139,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2013-07-05,2011-2015,2013,0,13,IncC,1,A,TGGTCGACGCCT,9
+CPO140,Klebsiella pneumoniae,340,Klebsiella pneumoniae 340,Klebsiella pneumoniae ST340,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2013-08-27,2011-2015,2013,0,45,IncC,4,D,TGGTCGACGCCT,9
+CPO141,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2013-08-22,2011-2015,2013,0,73,IncC,1,A,TGGTCGACGCCT,9
+CPO142,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2013-06-26,2011-2015,2013,0,81,IncC,1,A,TGGTCGACGCCT,9
+CPO143,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2013-04-23,2011-2015,2013,0,90,IncC,NA,NA,NA,NA
+CPO145,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2013-01-11,2011-2015,2013,0,82,IncFIA/IncFIB/IncP,0,C,TGGTCGACGCCT,9
+CPO147,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2014-12-29,2011-2015,2014,0,104,Chromosome,NA,NA,NA,NA
+CPO149,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2014-11-27,2011-2015,2014,0,187,IncC,3,B,TGGTCGACGCCT,9
+CPO150,Klebsiella pneumoniae,340,Klebsiella pneumoniae 340,Klebsiella pneumoniae ST340,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2014-11-26,2011-2015,2014,0,101,IncC,1,A,GCATCGACGCCT,1
+CPO151,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2014-06-03,2011-2015,2014,0,96,IncC,1,A,TGGTCGACGCCT,9
+CPO153,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2014-06-28,2011-2015,2014,0,97,IncFIA/IncFIB/IncP,0,C,TGGTCGACGCCT,9
+CPO156,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2014-03-13,2011-2015,2014,0,65,IncC,1,A,TGGTCGACGCCT,9
+CPO157,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2014-05-24,2011-2015,2014,0,95,IncFIA/IncFIB/IncP,0,C,TGGTCGACGCCT,9
+CPO158,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2014-05-24,2011-2015,2014,0,12,IncFIA/IncFIB/IncP,0,C,TGGTCGACGCCT,9
+CPO160,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2013-02-26,2011-2015,2013,0,91,IncFIA/IncFIB/IncP,13,13,NA,NA
+CPO161,Klebsiella pneumoniae,4379,Klebsiella pneumoniae 4379,Klebsiella pneumoniae ST4379,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2013-03-27,2011-2015,2013,0,179,IncC,11,11,NA,NA
+CPO163,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2012-01-31,2011-2015,2012,0,36,IncC,1,A,TGGTCGACGCCT,9
+CPO165,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2012-03-04,2011-2015,2012,0,NA,IncFIA/IncFIB/IncP,0,C,TGGTCGACGCCT,9
+CPO166,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2012-03-23,2011-2015,2012,0,NA,IncFIA/IncFIB/IncP,3,B,TGGTCGACGCCT,9
+CPO167,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2012-04-28,2011-2015,2012,0,186,IncC,1,A,TGGTCGACGCCT,9
+CPO170,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2012-10-03,2011-2015,2012,0,190,Chromosome,NA,NA,NA,NA
+CPO171,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2012-10-05,2011-2015,2012,0,NA,IncFIA/IncFIB/IncP,3,B,TGGTCGACGCTC,10
+CPO173,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2011-01-06,2011-2015,2011,0,85,IncC,1,A,TGGTCGACGCCT,9
+CPO174,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2011-05-22,2011-2015,2011,0,80,Chromosome,NA,NA,NA,NA
+CPO175,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2011-08-28,2011-2015,2011,0,176,Chromosome,NA,NA,NA,NA
+CPO176,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2011-12-11,2011-2015,2011,0,88,IncC,1,A,TGGTCGACGCCT,9
+CPO177,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2011-12-30,2011-2015,2011,0,NA,IncFIB,1,A,TGGTCGACGCCT,9
+CPO178,Klebsiella pneumoniae,4379,Klebsiella pneumoniae 4379,Klebsiella pneumoniae ST4379,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2010-02-02,2002-2010,2010,0,NA,IncC,4,D,TGGTCGACGCCT,9
+CPO179,Enterobacter cloacae,24,Enterobacter cloacae 24,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2010-05-15,2002-2010,2010,0,NA,IncFIB,1,A,TGGTCGACGCCT,9
+CPO180,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2010-06-16,2002-2010,2010,0,38,Chromosome,NA,NA,NA,NA
+CPO181,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2010-10-02,2002-2010,2010,0,64,Chromosome,NA,NA,NA,NA
+CPO182,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2010-11-15,2002-2010,2010,0,83,IncC,1,A,TGGTCGACGCCT,9
+CPO183,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2010-12-25,2002-2010,2010,0,84,IncC,1,A,TGGTCGACGCCT,9
+CPO184,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2009-06-23,2002-2010,2009,0,189,Chromosome,NA,NA,NA,NA
+CPO185,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2009-06-22,2002-2010,2009,0,49,IncC,3,B,TGGTCGACGCCT,9
+CPO186,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2009-09-19,2002-2010,2009,0,50,Chromosome,NA,NA,NA,NA
+CPO187,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2009-11-16,2002-2010,2009,0,54,Chromosome,NA,NA,NA,NA
+CPO188,Klebsiella pneumoniae,281,Klebsiella pneumoniae 281,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2009-11-20,2002-2010,2009,0,NA,IncC,3,B,TGGTCGACGCCT,9
+CPO189,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-02-25,2016-2020,2019,0,79,IncHI2A type 2,NA,NA,NA,NA
+CPO190,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-02-27,2016-2020,2019,0,78,IncHI2A type 2,NA,NA,NA,NA
+CPO191,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-02-26,2016-2020,2019,0,119,IncHI2A type 2,NA,NA,NA,NA
+CPO203,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-03-12,2016-2020,2019,0,121,IncHI2A type 1,NA,NA,NA,NA
+CPO210,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-03-16,2016-2020,2019,0,121,IncHI2A type 1,NA,NA,NA,NA
+CPO214,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-03-20,2016-2020,2019,0,78,IncHI2A type 2,NA,NA,NA,NA
+CPO216,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-03-21,2016-2020,2019,0,118,IncHI2A type 1,NA,NA,NA,NA
+CPO220,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-04-04,2016-2020,2019,0,172,IncHI2A type 1,NA,NA,NA,NA
+CPO221,Klebsiella pneumoniae,1905,Klebsiella pneumoniae 1905,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2019-04-12,2016-2020,2019,0,128,IncHI2A type 1,8,8,GGGTCGACGTCT,6
+CPO224,Klebsiella pneumoniae,1905,Klebsiella pneumoniae 1905,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2019-04-12,2016-2020,2019,0,128,IncHI2A type 1,8,8,GGGTCGACGTCT,6
+CPO229,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-05-10,2016-2020,2019,0,43,IncHI2A type 2,NA,NA,NA,NA
+CPO234,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2019-05-28,2016-2020,2019,0,145,IncFIA/IncFIB/IncP,15,15,NA,NA
+CPO235,Escherichia coli,155,Escherichia coli 155,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2019-05-28,2016-2020,2019,0,145,IncHI2A type 2,2,F,GGGATGACGTCT,2
+CPO239,Enterobacter cloacae,24,Enterobacter cloacae 24,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2019-06-04,2016-2020,2019,0,146,IncC,12,E,TGGTCGACGCCT,9
+CPO240,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2019-06-06,2016-2020,2019,0,168,IncC,NA,NA,NA,NA
+CPO241,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-06-06,2016-2020,2019,0,144,IncHI2A type 1,NA,NA,NA,NA
+CPO242,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-06-07,2016-2020,2019,0,43,IncHI2A type 2,NA,NA,NA,NA
+CPO243,Klebsiella michiganensis,84,Klebsiella michiganensis 84,Klebsiella michiganensis,Klebsiella michiganensis,Other Klebsiella spp.,2019-06-11,2016-2020,2019,0,107,IncHI2A type 1,23,23,GGGTCGACGCCT,5
+CPO244,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-06-12,2016-2020,2019,0,172,IncHI2A type 1,NA,NA,NA,NA
+CPO248,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-06-13,2016-2020,2019,0,102,IncHI2A type 2,NA,NA,NA,NA
+CPO249,Klebsiella michiganensis,84,Klebsiella michiganensis 84,Klebsiella michiganensis,Klebsiella michiganensis,Other Klebsiella spp.,2019-06-12,2016-2020,2019,0,107,IncHI2A type 1,7,7,GGGTCGACGCCT,5
+CPO250,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-06-17,2016-2020,2019,0,144,IncHI2A type 1,NA,NA,NA,NA
+CPO251,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-06-22,2016-2020,2019,0,52,IncHI2A type 2,NA,NA,NA,NA
+CPO253,Serratia marcescens,2,Serratia marcescens 2,Serratia marcescens lin. 2,Serratia marcescens,Serratia marcescens,2019-07-08,2016-2020,2019,0,67,IncC,1,A,TGGTCGACGCCT,9
+CPO254,Escherichia coli,176,Escherichia coli 176,Escherichia coli ST176,Escherichia coli,Escherichia coli,2019-07-18,2016-2020,2019,0,142,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO255,Enterobacter hormaechei,133,Enterobacter hormaechei 133,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2019-07-17,2016-2020,2019,0,149,IncC,3,B,TGGTCGACGCCT,9
+CPO256,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-07-21,2016-2020,2019,0,144,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO259,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-07-24,2016-2020,2019,0,132,IncHI2A type 1,NA,NA,NA,NA
+CPO260,Citrobacter freundii,150,Citrobacter freundii 150,Citrobacter spp.,Citrobacter spp.,Other Gram negative spp.,2019-08-21,2016-2020,2019,0,150,IncC,12,E,GGGTCGACGCCT,5
+CPO261,Klebsiella pneumoniae,661,Klebsiella pneumoniae 661,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2019-08-21,2016-2020,2019,0,150,IncC,12,E,TGGTCGACGCCT,9
+CPO262,Klebsiella michiganensis,29,Klebsiella michiganensis 29,Klebsiella michiganensis,Klebsiella michiganensis,Other Klebsiella spp.,2019-08-21,2016-2020,2019,0,150,IncC,12,E,GGGTCGACGCCT,5
+CPO263,Escherichia coli,176,Escherichia coli 176,Escherichia coli ST176,Escherichia coli,Escherichia coli,2019-10-22,2016-2020,2019,0,128,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO264,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-10-23,2016-2020,2019,0,148,IncHI2A type 2,NA,NA,NA,NA
+CPO267,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-11-22,2016-2020,2019,0,53,IncHI2A type 2,NA,NA,NA,NA
+CPO272,Enterobacter chengduensis,1065,Enterobacter chengduensis 1065,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2019-09-16,2016-2020,2019,0,150,IncC,12,E,TGGTCGACGCCT,9
+CPO278,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-11-13,2016-2020,2019,0,151,IncHI2A type 2,NA,NA,NA,NA
+CPO280,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-11-14,2016-2020,2019,0,118,IncHI2A type 1,NA,NA,NA,NA
+CPO284,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2019-11-14,2016-2020,2019,1,56,IncC,3,B,TGGTCGACGCCT,9
+CPO285,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-11-19,2016-2020,2019,0,148,IncHI2A type 2,NA,NA,NA,NA
+CPO286,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-11-22,2016-2020,2019,0,53,IncHI2A type 2,NA,NA,NA,NA
+CPO287,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2019-11-27,2016-2020,2019,0,105,IncFIA/IncFIB/IncP,NA,NA,NA,NA
+CPO291,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-11-28,2016-2020,2019,0,151,IncHI2A type 2,NA,NA,NA,NA
+CPO292,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-11-29,2016-2020,2019,0,151,IncHI2A type 2,NA,NA,NA,NA
+CPO298,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2019-12-19,2016-2020,2019,0,132,IncHI2A type 1,NA,NA,NA,NA
+CPO301,Klebsiella variicola,-,Klebsiella variicola -,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2019-12-20,2016-2020,2019,0,153,IncHI2A type 2,2,F,GGGATTACGTCT,3
+CPO302,Citrobacter amalonaticus,-,Citrobacter amalonaticus -,Citrobacter spp.,Citrobacter spp.,Other Gram negative spp.,2019-12-20,2016-2020,2019,0,153,IncHI2A type 2,2,F,GGGTCTACGTCT,8
+CPO303,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2019-11-28,2016-2020,2019,0,153,IncHI2A type 2,NA,NA,NA,NA
+CPO305,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-01-07,2016-2020,2020,0,156,IncC,NA,NA,NA,NA
+CPO312,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2020-02-01,2016-2020,2020,0,147,IncHI2A type 2,NA,NA,NA,NA
+CPO320,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2020-02-23,2016-2020,2020,0,154,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO321,Klebsiella variicola,1582,Klebsiella variicola 1582,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2020-02-23,2016-2020,2020,0,154,IncL/M,6,G,GGGTCGACGCCT,5
+CPO323,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-02-26,2016-2020,2020,0,76,IncC,NA,NA,NA,NA
+CPO324,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-02-27,2016-2020,2020,0,76,IncC,NA,NA,NA,NA
+CPO328,Klebsiella variicola,1582,Klebsiella variicola 1582,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2020-03-07,2016-2020,2020,0,138,IncC,12,E,TGGTCGGCGCCT,11
+CPO335,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-05-06,2016-2020,2020,0,152,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO337,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2020-04-22,2016-2020,2020,0,154,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO338,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-04-24,2016-2020,2020,0,132,IncHI2A type 1,NA,NA,NA,NA
+CPO344,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-05-03,2016-2020,2020,0,152,IncHI2A type 1,NA,NA,NA,NA
+CPO347,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-05-16,2016-2020,2020,0,158,IncC,NA,NA,NA,NA
+CPO353,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-05-31,2016-2020,2020,0,132,IncHI2A type 1,NA,NA,NA,NA
+CPO355,Escherichia coli,38,Escherichia coli 38,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2020-05-28,2016-2020,2020,0,155,IncL/M,6,G,GGGTCGACGCCT,5
+CPO356,Klebsiella pneumoniae,873,Klebsiella pneumoniae 873,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2020-05-28,2016-2020,2020,0,155,IncL/M,6,G,GGGTCGACGCCT,5
+CPO360,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-04,2016-2020,2020,0,157,IncHI2A type 1,NA,NA,NA,NA
+CPO361,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-04,2016-2020,2020,0,184,IncHI2A type 1,2,F,GGGTCGACGTCT,6
+CPO362,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-06,2016-2020,2020,0,157,IncHI2A type 1,NA,NA,NA,NA
+CPO365,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-11,2016-2020,2020,0,159,IncHI2A type 1,NA,NA,NA,NA
+CPO367,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-15,2016-2020,2020,0,159,IncHI2A type 1,NA,NA,NA,NA
+CPO368,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-17,2016-2020,2020,0,180,IncHI2A type 1,NA,NA,NA,NA
+CPO369,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-18,2016-2020,2020,0,143,IncHI2A type 1,NA,NA,NA,NA
+CPO370,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-25,2016-2020,2020,0,180,IncHI2A type 1,NA,NA,NA,NA
+CPO371,Citrobacter freundii,492,Citrobacter freundii 492,Citrobacter spp.,Citrobacter spp.,Other Gram negative spp.,2020-06-18,2016-2020,2020,0,192,IncHI2A type 1,19,19,GGGTCGACACCT,4
+CPO373,Serratia marcescens,2,Serratia marcescens 2,Serratia marcescens lin. 2,Serratia marcescens,Serratia marcescens,2020-03-11,2016-2020,2020,1,55,IncC,1,A,TGGTCGACGCCT,9
+CPO377,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-03-11,2016-2020,2020,1,60,IncC,NA,NA,NA,NA
+CPO382,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-03-11,2016-2020,2020,1,61,IncC,NA,NA,NA,NA
+CPO385,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-23,2016-2020,2020,0,184,IncHI2A type 1,NA,NA,NA,NA
+CPO386,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-29,2016-2020,2020,0,116,IncHI2A type 1,9,9,GGGTCGACGTCT,6
+CPO389,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-07-05,2016-2020,2020,0,116,IncHI2A type 1,NA,NA,NA,NA
+CPO395,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2020-06-23,2016-2020,2020,1,59,IncHI2A type 1,2,F,GGGATGACGTCT,2
+CPO397,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2017-02-22,2016-2020,2017,0,114,IncC,1,A,TGGTCGACGCCT,9
+CPO399,Enterobacter hormaechei,93,Enterobacter hormaechei 93,Enterobacter hormaechei ST93,Enterobacter cloacae complex,Enterobacter hormaechei ST93,2017-02-28,2016-2020,2017,0,113,IncHI2A type 2,2,F,GGGTCGACGTCT,6
+CPO400,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2017-03-17,2016-2020,2017,0,112,IncFIA/IncFIB/IncP,NA,NA,NA,NA
+CPO401,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2017-05-28,2016-2020,2017,0,115,IncC,1,A,TGGTCGACGCCT,9
+CPO402,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2017-08-22,2016-2020,2017,0,103,IncC,1,A,TGGTCGACGCCT,9
+CPO403,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2017-09-08,2016-2020,2017,0,70,IncC,17,17,TGGTCGACGCCT,9
+CPO405,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-07-31,2016-2020,2020,0,160,IncC,NA,NA,NA,NA
+CPO410,Serratia marcescens,2,Serratia marcescens 2,Serratia marcescens lin. 2,Serratia marcescens,Serratia marcescens,2020-06-30,2016-2020,2020,1,58,IncC,1,A,TGGTCGACGCCT,9
+CPO411,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-06-30,2016-2020,2020,1,57,IncC,NA,NA,NA,NA
+CPO417,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-07-14,2016-2020,2020,1,56,IncC,3,B,TGGTCGACGCCT,9
+CPO422,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2020-08-08,2016-2020,2020,0,160,IncC,1,A,TGGTCGACGCCT,9
+CPO429,Klebsiella aerogenes,35-1LV,Klebsiella aerogenes 35-1LV,Klebsiella aerogenes,Klebsiella aerogenes,Other Klebsiella spp.,2020-10-09,2016-2020,2020,0,193,IncL/M,22,22,GGGTCGACGCCT,5
+CPO458,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2002-08-27,2002-2010,2002,0,169,IncC,3,B,TGGTCGACGCCT,9
+CPO459,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2004-01-26,2002-2010,2004,0,9,Chromosome,NA,NA,NA,NA
+CPO460,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2004-01-28,2002-2010,2004,0,10,IncC,NA,NA,NA,NA
+CPO463,Klebsiella pneumoniae,34,Klebsiella pneumoniae 34,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2004-02-15,2002-2010,2004,0,11,IncC,1,A,TGGTCGACGCCT,9
+CPO465,Klebsiella pneumoniae,5147-1LV,Klebsiella pneumoniae 5147-1LV,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2004-03-18,2002-2010,2004,0,15,IncC,3,B,TGGTCGACGCCT,9
+CPO469,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2004-04-30,2002-2010,2004,0,16,Chromosome,NA,NA,NA,NA
+CPO471,Klebsiella quasipneumoniae,2421-1LV,Klebsiella quasipneumoniae 2421-1LV,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2004-05-22,2002-2010,2004,0,17,IncC,3,B,TGGTCGACGCCT,9
+CPO474,Enterobacter hormaechei,108,Enterobacter hormaechei 108,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2004-06-18,2002-2010,2004,0,194,IncC,3,B,TGGTCGACGCCT,9
+CPO475,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2004-06-27,2002-2010,2004,0,17,IncC,3,B,TGGTCGACGCCT,9
+CPO477,Klebsiella pneumoniae,1109,Klebsiella pneumoniae 1109,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2004-07-07,2002-2010,2004,0,181,IncC,20,20,TGGTCGACGCCT,9
+CPO478,Escherichia coli,131,Escherichia coli 131,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2004-07-15,2002-2010,2004,0,17,IncC,3,B,TGGTCGACGCCT,9
+CPO482,Citrobacter koseri,NA,Citrobacter koseri NA,Citrobacter spp.,Citrobacter spp.,Other Gram negative spp.,2004-07-31,2002-2010,2004,0,17,IncC,3,B,TGGTCGACGCCT,9
+CPO486,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2004-10-04,2002-2010,2004,0,18,Chromosome,NA,NA,NA,NA
+CPO487,Klebsiella pneumoniae,1552,Klebsiella pneumoniae 1552,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2004-10-05,2002-2010,2004,0,20,IncC,1,A,TGGTCGACGCCT,9
+CPO491,Escherichia coli,155,Escherichia coli 155,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2004-10-24,2002-2010,2004,0,22,IncC,1,A,TGGTCGACGCCT,9
+CPO492,Enterobacter bugandensis,-,Enterobacter bugandensis -,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2004-10-27,2002-2010,2004,0,20,IncC,1,A,TGGTCGACGCCT,9
+CPO493,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2004-11-02,2002-2010,2004,0,14,IncC,3,B,TGGTCGACGCCT,9
+CPO494,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2004-11-02,2002-2010,2004,0,14,IncC,NA,NA,NA,NA
+CPO495,Klebsiella pneumoniae,4379,Klebsiella pneumoniae 4379,Klebsiella pneumoniae ST4379,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2004-11-05,2002-2010,2004,0,7,IncC,4,D,TGGTCGACGCCT,9
+CPO496,Klebsiella pneumoniae,4379,Klebsiella pneumoniae 4379,Klebsiella pneumoniae ST4379,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2004-11-06,2002-2010,2004,0,72,IncC,4,D,TGGTCGACGCCT,9
+CPO500,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2004-12-07,2002-2010,2004,0,23,Chromosome,NA,NA,NA,NA
+CPO504,Klebsiella pneumoniae,1552-1LV,Klebsiella pneumoniae 1552-1LV,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2004-12-16,2002-2010,2004,0,75,IncC,1,A,TGGTCGACGCCT,9
+CPO505,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2005-01-02,2002-2010,2005,0,165,IncC,NA,NA,NA,NA
+CPO506,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2005-01-16,2002-2010,2005,0,178,Chromosome,NA,NA,NA,NA
+CPO513,Escherichia coli,1231,Escherichia coli 1231,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2005-03-05,2002-2010,2005,0,21,IncC,1,A,TGGTCGACGCCT,9
+CPO519,Acinetobacter baumannii,779-1LV,Acinetobacter baumannii 779-1LV,Acinetobacter spp.,Acinetobacter spp.,Other Gram negative spp.,2005-03-25,2002-2010,2005,0,188,Untypeable,NA,NA,NA,NA
+CPO520,Escherichia coli,69,Escherichia coli 69,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2005-04-01,2002-2010,2005,0,24,IncC,1,A,TGGTCGACGCCT,9
+CPO521,Enterobacter hormaechei,121-1LV,Enterobacter hormaechei 121-1LV,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2005-05-01,2002-2010,2005,0,25,IncC,4,D,TGGTCGACGCCT,9
+CPO522,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2005-05-05,2002-2010,2005,0,19,Chromosome,NA,NA,NA,NA
+CPO526,Escherichia coli,12,Escherichia coli 12,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2005-06-24,2002-2010,2005,0,164,IncC,3,B,GGGTCGACGCCT,5
+CPO529,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2005-07-16,2002-2010,2005,0,27,IncC,NA,NA,NA,NA
+CPO532,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2005-09-25,2002-2010,2005,0,6,Chromosome,NA,NA,NA,NA
+CPO534,Klebsiella oxytoca,18,Klebsiella oxytoca 18,Klebsiella oxytoca - Other STs,Klebsiella oxytoca,Other Klebsiella spp.,2005-10-17,2002-2010,2005,0,26,IncC,3,B,TGGTCGACGCCT,9
+CPO537,Klebsiella pneumoniae,1451,Klebsiella pneumoniae 1451,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2005-12-14,2002-2010,2005,0,29,IncC,1,A,TGGTCGACGCCT,9
+CPO538,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2006-02-07,2002-2010,2006,0,28,IncC,NA,NA,NA,NA
+CPO540,Enterobacter hormaechei,190,Enterobacter hormaechei 190,Enterobacter hormaechei ST190,Enterobacter cloacae complex,Enterobacter hormaechei ST190,2006-03-06,2002-2010,2006,0,30,IncC,3,B,TGGTCGACGCCT,9
+CPO542,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2006-05-01,2002-2010,2006,0,33,IncC,3,B,TGGTTGACGCCT,12
+CPO543,Enterobacter hormaechei,175,Enterobacter hormaechei 175,Enterobacter cloacae complex - Other STs,Enterobacter cloacae complex,Enterobacter cloacae complex,2006-05-25,2002-2010,2006,0,32,IncC,1,A,TGGTCGACGCCT,9
+CPO545,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2006-06-14,2002-2010,2006,0,34,Chromosome,NA,NA,NA,NA
+CPO546,Klebsiella pneumoniae,240,Klebsiella pneumoniae 240,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2006-06-26,2002-2010,2006,0,31,IncC,4,D,GGGTCGACGCCT,5
+CPO547,Escherichia coli,95,Escherichia coli 95,Escherichia coli - Other STs,Escherichia coli,Escherichia coli,2006-06-26,2002-2010,2006,0,31,IncC,4,D,TGGTCGACGCCT,9
+CPO552,Enterobacter hormaechei,114,Enterobacter hormaechei 114,Enterobacter hormaechei ST114,Enterobacter cloacae complex,Enterobacter hormaechei ST114,2006-12-29,2002-2010,2006,0,35,IncC,1,A,TGGTCGACGCCT,9
+CPO554,Klebsiella pneumoniae,617,Klebsiella pneumoniae 617,Klebsiella pneumoniae complex - Other STs,Klebsiella pneumoniae complex,Klebsiella pneumoniae complex,2007-02-09,2002-2010,2007,0,37,IncC,1,A,TGGTCGACGCCT,9
+CPO555,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2007-02-13,2002-2010,2007,0,37,IncC,NA,NA,NA,NA
+CPO563,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2007-07-02,2002-2010,2007,0,39,IncC,NA,NA,NA,NA
+CPO566,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2007-10-11,2002-2010,2007,0,182,Chromosome,NA,NA,NA,NA
+CPO570,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2007-11-23,2002-2010,2007,0,62,Chromosome,NA,NA,NA,NA
+CPO573,Serratia marcescens,1,Serratia marcescens 1,Serratia marcescens lin. 1,Serratia marcescens,Serratia marcescens,2008-09-14,2002-2010,2008,0,8,IncC,NA,NA,NA,NA
+CPO470,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2004-05-06,2002-2010,2004,0,195,Chromosome,NA,NA,NA,NA
+CPO497,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2004-11-27,2002-2010,2004,0,196,Chromosome,NA,NA,NA,NA
+CPO503,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2004-12-11,2002-2010,2004,0,197,Chromosome,NA,NA,NA,NA
+CPO509,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2005-02-01,2002-2010,2005,0,198,Chromosome,NA,NA,NA,NA
+CPO510,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2005-02-06,2002-2010,2005,0,199,Chromosome,NA,NA,NA,NA
+CPO512,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2005-02-19,2002-2010,2005,0,200,Chromosome,NA,NA,NA,NA
+CPO514,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2005-03-07,2002-2010,2005,0,201,Chromosome,NA,NA,NA,NA
+CPO523,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2005-05-07,2002-2010,2005,0,202,Chromosome,NA,NA,NA,NA
+CPO528,Pseudomonas aeruginosa,111,Pseudomonas aeruginosa 111,Pseudomonas aeruginosa ST111,Pseudomonas aeruginosa,Pseudomonas aeruginosa ST111,2005-07-12,2002-2010,2005,0,203,Chromosome,NA,NA,NA,NA
