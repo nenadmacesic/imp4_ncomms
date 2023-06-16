@@ -11,4 +11,4 @@ The R code to generate the figures from the data is in `imp4_manuscript_final_20
 ## Input data
 The remaining files are input data and consist of CSVs with study metadata and phylogenetic trees.
 
-Thank you for reading!
+**Thanks for reading!**
