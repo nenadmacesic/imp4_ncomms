@@ -1,0 +1,271 @@
+isolate,species_st,rep_type_clean,mobtyper_cluster,species,ur_dummy
+CPO002,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,131
+CPO003,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,172
+CPO004,Escherichia coli 2520,IncHI2A (AA739 AJ058),TBD,Escherichia coli,126
+CPO006,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,174
+CPO008,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,117
+CPO009,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,66
+CPO010,Acinetobacter ursingii 749,Untyped (AC935 AM306),AC935_AM306,Acinetobacter ursingii,77
+CPO011,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,79
+CPO013,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,128
+CPO014,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,137
+CPO016,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,131
+CPO017,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,174
+CPO019,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,161
+CPO020,Enterobacter hormaechei 134,IncHI2,AA739_AJ058,Enterobacter cloacae complex,4
+CPO021,Klebsiella variicola 3206,IncL/M (AA002 AH532),AA002_AH532,Klebsiella pneumoniae,140
+CPO022,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),TBD,Enterobacter cloacae complex,183
+CPO023,Escherichia coli 2144,IncL/M (AA002 AH532),AA002_AH532,Escherichia coli,120
+CPO024,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,135
+CPO029,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,135
+CPO033,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,139
+CPO037,Serratia marcescens 2,IncC,AA860_AJ266,Serratia marcescens,55
+CPO038,Serratia marcescens 2,IncC,TBD,Serratia marcescens,58
+CPO039,Serratia marcescens 1,IncC,TBD,Serratia marcescens,57
+CPO040,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,166
+CPO042,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,141
+CPO044,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,125
+CPO045,Klebsiella grimontii 300,IncL/M (AA002 AH532),AA002_AH532,Klebsiella oxytoca,130
+CPO046,Escherichia coli 1312,IncL/M (AA002 AH532),AA002_AH532,Escherichia coli,130
+CPO049,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,137
+CPO050,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,137
+CPO051,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,129
+CPO052,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,119
+CPO053,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,68
+CPO054,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),TBD,Enterobacter cloacae complex,133
+CPO055,Enterobacter hormaechei 93,IncHI2,AA739_AJ059,Enterobacter cloacae complex,79
+CPO056,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,117
+CPO058,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,3
+CPO060,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ059,Enterobacter cloacae complex,191
+CPO062,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,175
+CPO064,Acinetobacter nosocomialis 948,Untyped (AC935 AM306),AC935_AM306,Acinetobacter species,86
+CPO066,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,136
+CPO067,Enterobacter hormaechei 114,IncL/M (AA002 AH532),AA002_AH532,Enterobacter cloacae complex,46
+CPO068,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,134
+CPO069,Serratia marcescens 1,IncC,TBD,Serratia marcescens,87
+CPO071,Klebsiella variicola 3081,IncL/M (AA002 AH532),AA002_AH532,Klebsiella pneumoniae,110
+CPO072,Serratia marcescens 1,IncC,TBD,Serratia marcescens,74
+CPO073,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,127
+CPO074,Escherichia coli 176,IncL/M (AA002 AH532),AA002_AH532,Escherichia coli,71
+CPO075,Klebsiella variicola 347,IncL/M (AA002 AH532),AA002_AH532,Klebsiella pneumoniae,71
+CPO076,Citrobacter freundii 16,Chromosome,AA739_AJ059,Citrobacter freundii complex,122
+CPO078,Klebsiella michiganensis 231,IncL/M (AA002 AH532),AA002_AH532,Klebsiella oxytoca,123
+CPO079,Klebsiella pneumoniae 27,IncL/M (AA002 AH532),AA002_AH532,Klebsiella pneumoniae,124
+CPO081,Enterobacter hormaechei 177,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,170
+CPO082,Klebsiella oxytoca 178,IncHI2,AA739_AJ058,Klebsiella oxytoca,51
+CPO086,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,163
+CPO088,Klebsiella oxytoca 178,IncHI2,AA739_AJ058,Klebsiella oxytoca,69
+CPO089,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,167
+CPO092,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,89
+CPO093,Enterobacter hormaechei 175,IncL/M (AA002 AH532),AA002_AH532,Enterobacter cloacae complex,41
+CPO094,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,111
+CPO098,Enterobacter hormaechei 93,IncHI2,AA739_AJ059,Enterobacter cloacae complex,63
+CPO100,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,5
+CPO101,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,173
+CPO102,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,185
+CPO103,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,44
+CPO104,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,8
+CPO105,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,47
+CPO106,Klebsiella pneumoniae 435,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,1
+CPO107,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,48
+CPO109,Klebsiella pneumoniae 20,IncHI2,AA739_AJ058,Klebsiella pneumoniae,42
+CPO111,Pseudomonas aeruginosa 111,Chromosome,AC082_AL120,Pseudomonas aeruginosa,40
+CPO112,Klebsiella variicola 2551,IncL/M (AA002 AH532),AA002_AH532,Klebsiella pneumoniae,177
+CPO116,Klebsiella michiganensis 50,IncHI2_2,AA739_AJ055,Klebsiella oxytoca,109
+CPO117,Acinetobacter pittii 1037,Untyped (AC935 AM306),AC935_AM306,Acinetobacter baumannii complex,94
+CPO118,Klebsiella oxytoca 278,IncHI2_2,AA739_AJ055,Klebsiella oxytoca,2
+CPO119,Klebsiella oxytoca 278,IncHI2_2,AA739_AJ055,Klebsiella oxytoca,98
+CPO120,Klebsiella oxytoca 278,IncHI2_2,AA739_AJ055,Klebsiella oxytoca,92
+CPO121,Klebsiella oxytoca 278,IncHI2_2,AA739_AJ055,Klebsiella oxytoca,171
+CPO123,Enterobacter hormaechei 114,IncL/M (AA002 AH532),AA002_AH532,Enterobacter cloacae complex,108
+CPO128,Klebsiella pneumoniae 27,IncC (AA860 AJ266),TBD,Klebsiella pneumoniae,106
+CPO129,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,99
+CPO132,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,93
+CPO134,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,162
+CPO136,Klebsiella pneumoniae 340,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,100
+CPO137,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,100
+CPO139,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,13
+CPO140,Klebsiella pneumoniae 340,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,45
+CPO141,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,73
+CPO142,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,81
+CPO143,Serratia marcescens 1,IncC,TBD,Serratia marcescens,90
+CPO145,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,82
+CPO147,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,104
+CPO149,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,187
+CPO150,Klebsiella pneumoniae 340,IncC (AA860 AJ266),AF135_AP051,Klebsiella pneumoniae,101
+CPO151,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,96
+CPO153,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,97
+CPO156,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,65
+CPO157,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,95
+CPO158,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,12
+CPO160,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,91
+CPO161,Klebsiella pneumoniae 4379,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,179
+CPO163,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,36
+CPO165,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,NA
+CPO166,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,NA
+CPO167,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,186
+CPO170,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,190
+CPO171,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,NA
+CPO173,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,85
+CPO174,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,80
+CPO175,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,176
+CPO176,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,88
+CPO177,Enterobacter hormaechei 114,IncFIB (AA020 AH567),AA020_AH567,Enterobacter cloacae complex,NA
+CPO178,Klebsiella pneumoniae 4379,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,NA
+CPO179,Enterobacter cloacae 24,IncFIB (AA020 AH567),AA020_AH567,Enterobacter cloacae complex,NA
+CPO180,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,38
+CPO181,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,64
+CPO182,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,83
+CPO183,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,84
+CPO184,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,189
+CPO185,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,49
+CPO186,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,50
+CPO187,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,54
+CPO188,Klebsiella pneumoniae 281,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,NA
+CPO189,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,79
+CPO190,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,78
+CPO191,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,119
+CPO203,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,121
+CPO210,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,121
+CPO214,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,78
+CPO216,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,118
+CPO220,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,172
+CPO221,Klebsiella pneumoniae 1905,IncHI2_2,AA739_AJ055,Klebsiella pneumoniae,128
+CPO224,Klebsiella pneumoniae 1905,IncHI2_2,AA739_AJ055,Klebsiella pneumoniae,128
+CPO229,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,43
+CPO234,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),AD444_AN003,Enterobacter cloacae complex,145
+CPO235,Escherichia coli 155,IncHI2,AA739_AJ058,Escherichia coli,145
+CPO239,Enterobacter cloacae 24,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,146
+CPO240,Serratia marcescens 1,IncC,TBD,Serratia marcescens,168
+CPO241,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,144
+CPO242,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,43
+CPO243,Klebsiella michiganensis 84,IncHI2_2,AA739_AJ055,Klebsiella oxytoca,107
+CPO244,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,172
+CPO248,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,102
+CPO249,Klebsiella michiganensis 84,IncHI2_2,AA739_AJ055,Klebsiella oxytoca,107
+CPO250,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,144
+CPO251,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,52
+CPO253,Serratia marcescens 2,IncC,AA860_AJ266,Serratia marcescens,67
+CPO254,Escherichia coli 176,IncHI2_2,AA739_AJ055,Escherichia coli,142
+CPO255,Enterobacter hormaechei 133,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,149
+CPO256,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,144
+CPO259,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,132
+CPO260,Citrobacter freundii 150,IncC (AA860 AJ266),AA860_AJ266,Citrobacter freundii complex,150
+CPO261,Klebsiella pneumoniae 661,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,150
+CPO262,Klebsiella michiganensis 29,IncC (AA860 AJ266),AA860_AJ266,Klebsiella oxytoca,150
+CPO263,Escherichia coli 176,IncHI2_2,AA739_AJ055,Escherichia coli,128
+CPO264,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,148
+CPO267,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,53
+CPO272,Enterobacter chengduensis 1065,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,150
+CPO278,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,151
+CPO280,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,118
+CPO284,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,56
+CPO285,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,148
+CPO286,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,53
+CPO287,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),TBD,Enterobacter cloacae complex,105
+CPO291,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,151
+CPO292,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,151
+CPO298,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,132
+CPO301,Klebsiella variicola -,IncHI2,AA739_AJ058,Klebsiella variicola,153
+CPO302,Citrobacter amalonaticus -,IncHI2,AA739_AJ058,Citrobacter amalonaticus,153
+CPO303,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,153
+CPO305,Serratia marcescens 1,IncC,TBD,Serratia marcescens,156
+CPO312,Enterobacter hormaechei 93,IncHI2,TBD,Enterobacter cloacae complex,147
+CPO320,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,154
+CPO321,Klebsiella variicola 1582,IncL/M (AA002 AH532),AA002_AH532,Klebsiella pneumoniae,154
+CPO323,Serratia marcescens 1,IncC,TBD,Serratia marcescens,76
+CPO324,Serratia marcescens 1,IncC,TBD,Serratia marcescens,76
+CPO328,Klebsiella variicola 1582,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,138
+CPO335,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,152
+CPO337,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,154
+CPO338,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,132
+CPO344,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,152
+CPO347,Serratia marcescens 1,IncC,TBD,Serratia marcescens,158
+CPO353,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,132
+CPO355,Escherichia coli 38,IncL/M (AA002 AH532),AA002_AH532,Escherichia coli,155
+CPO356,Klebsiella pneumoniae 873,IncL/M (AA002 AH532),AA002_AH532,Klebsiella pneumoniae,155
+CPO360,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,157
+CPO361,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,184
+CPO362,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,157
+CPO365,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,159
+CPO367,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,159
+CPO368,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,180
+CPO369,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,143
+CPO370,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,180
+CPO371,Citrobacter freundii 492,IncHI2_2,AA739_AJ055,Citrobacter,192
+CPO373,Serratia marcescens 2,IncC,AA860_AJ266,Serratia marcescens,55
+CPO377,Serratia marcescens 1,IncC,TBD,Serratia marcescens,60
+CPO382,Serratia marcescens 1,IncC,TBD,Serratia marcescens,61
+CPO385,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,184
+CPO386,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,116
+CPO389,Enterobacter hormaechei 190,IncHI2_2,TBD,Enterobacter cloacae complex,116
+CPO395,Enterobacter hormaechei 190,IncHI2_2,AA739_AJ055,Enterobacter cloacae complex,59
+CPO397,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,114
+CPO399,Enterobacter hormaechei 93,IncHI2,AA739_AJ058,Enterobacter cloacae complex,113
+CPO400,Enterobacter hormaechei 114,IncFIA/IncFIB/IncP (AD444 AN003),TBD,Enterobacter cloacae complex,112
+CPO401,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,115
+CPO402,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,103
+CPO403,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,70
+CPO405,Serratia marcescens 1,IncC,TBD,Serratia marcescens,160
+CPO410,Serratia marcescens 2,IncC,AA860_AJ266,Serratia marcescens,58
+CPO411,Serratia marcescens 1,IncC,TBD,Serratia marcescens,57
+CPO417,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,56
+CPO422,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,160
+CPO429,Klebsiella aerogenes 35-1LV,IncL/M (AA002 AH532),AA002_AH532,Klebsiella (Enterobacter) aerogenes,193
+CPO458,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,169
+CPO459,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,9
+CPO460,Serratia marcescens 1,IncC,TBD,Serratia marcescens,10
+CPO463,Klebsiella pneumoniae 34,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,11
+CPO465,Klebsiella pneumoniae 5147-1LV,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,15
+CPO469,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,16
+CPO471,Klebsiella quasipneumoniae 2421-1LV,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,17
+CPO474,Enterobacter hormaechei 108,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,194
+CPO475,Serratia marcescens 1,IncC,AA860_AJ266,Serratia marcescens,17
+CPO477,Klebsiella pneumoniae 1109,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,181
+CPO478,Escherichia coli 131,IncC (AA860 AJ266),AA860_AJ266,Escherichia coli,17
+CPO482,Citrobacter koseri NA,IncC (AA860 AJ266),AA860_AJ266,Citrobacter koseri,17
+CPO486,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,18
+CPO487,Klebsiella pneumoniae 1552,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,20
+CPO491,Escherichia coli 155,IncC (AA860 AJ266),AA860_AJ266,Escherichia coli,22
+CPO492,Enterobacter bugandensis -,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,20
+CPO493,Enterobacter hormaechei 114,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,14
+CPO494,Enterobacter hormaechei 114,IncC (AA860 AJ266),TBD,Enterobacter cloacae complex,14
+CPO495,Klebsiella pneumoniae 4379,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,7
+CPO496,Klebsiella pneumoniae 4379,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,72
+CPO500,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,23
+CPO504,Klebsiella pneumoniae 1552-1LV,IncC (AA860 AJ266),AA861_AJ282,Klebsiella pneumoniae,75
+CPO505,Serratia marcescens 1,IncC,TBD,Serratia marcescens,165
+CPO506,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,178
+CPO513,Escherichia coli 1231,IncC (AA860 AJ266),AA860_AJ266,Escherichia coli,21
+CPO519,Acinetobacter baumannii 779-1LV,Untyped (AC935 AM306),AC935_AM306,Acinetobacter baumannii complex,188
+CPO520,Escherichia coli 69,IncC (AA860 AJ266),AA860_AJ266,Escherichia coli,24
+CPO521,Enterobacter hormaechei 121-1LV,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,25
+CPO522,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,19
+CPO526,Escherichia coli 12,IncC (AA860 AJ266),AA860_AJ266,Escherichia coli,164
+CPO529,Serratia marcescens 1,IncC,TBD,Serratia marcescens,27
+CPO532,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,6
+CPO534,Klebsiella oxytoca 18,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,26
+CPO537,Klebsiella pneumoniae 1451,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,29
+CPO538,Serratia marcescens 1,IncC,TBD,Serratia marcescens,28
+CPO540,Enterobacter hormaechei 190,IncHI2_2,AA860_AJ266,Enterobacter cloacae complex,30
+CPO542,Enterobacter hormaechei 114,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,33
+CPO543,Enterobacter hormaechei 175,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,32
+CPO545,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,34
+CPO546,Klebsiella pneumoniae 240,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,31
+CPO547,Escherichia coli 95,IncC (AA860 AJ266),AA860_AJ266,Escherichia coli,31
+CPO552,Enterobacter hormaechei 114,IncC (AA860 AJ266),AA860_AJ266,Enterobacter cloacae complex,35
+CPO554,Klebsiella pneumoniae 617,IncC (AA860 AJ266),AA860_AJ266,Klebsiella pneumoniae,37
+CPO555,Serratia marcescens 1,IncC,TBD,Serratia marcescens,37
+CPO563,Serratia marcescens 1,IncC,TBD,Serratia marcescens,39
+CPO566,Pseudomonas aeruginosa 111,Chromosome,AE985_AO877,Pseudomonas aeruginosa,182
+CPO570,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,62
+CPO573,Serratia marcescens 1,IncC,TBD,Serratia marcescens,8
+CPO470,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,195
+CPO497,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,196
+CPO503,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,197
+CPO509,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,198
+CPO510,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,199
+CPO512,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,200
+CPO514,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,201
+CPO523,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,202
+CPO528,Pseudomonas aeruginosa 111,Chromosome,TBD,Pseudomonas aeruginosa,203
